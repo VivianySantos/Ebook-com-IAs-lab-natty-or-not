@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Transforme Seu Corpo E Sua Vida - O Caminho Natural Que Você Ignora
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook com dicas simples de uma vida mais saudável, sem milagres, sem atalhos, usando somente o que se tem, principalmente, a esquecida paciência perdida nos tempos atuais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (https://chatgpt.com/)
+Gamma (https://gamma.app/)
+Canva (https://www.canva.com/) 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente criei uma base do que eu queria criar, conforme segue:
+
+Já pensou em ter a pele, corpo e saúde super desejados para você, sem ser de maneira artificial, gastando rios de dinheiro , ou de forma invasiva e prejudicial ao seu corpo? Sim, usando simplesmente bons alimentos, água de boa qualidade e, por favor, usando seu próprio corpo. Além disso, esqueci o que todos nós perdemos ao longo desses anos, a tão querida paciência. Uma grande coringa que todos nós temos, mas que ninguém mais quer desenvolver ou mesmo utilizar, porque tudo agora parece que tem que ser imediatamente, agora, hoje. A paciência foi esquecida e está junto com o WILSON e sua bola perdida na Ilha. Aprenda a ser você, VOCÊ, não só hoje, não só no imediato. Mas você a cada dia, com todos os hábitos, rotina necessária, todos os dias. Pois a vida não tem que ser uma corrida de 1km, mas uma longa e feliz caminhada, com trotes, uns tiros de vez em quando, uns descansos, mas principalmente longa e feliz.
+
+Depois passei para o ChatGPT (https://chatgpt.com/) criar um ebook completo, com diversas dicas, orientações e exercícios com base nessa decsrição. E após algumas revisões o resultado do rascunho foi esse: https://docs.google.com/document/d/1cdGPmiGCMtMdCJRFjXvWtORS0v-dUhf81YXBO1TCu9M/edit?usp=sharing 
+
+Como não tenho a versão paga do Gamma.app, fiz uma apresentação condensada, que ficou bem resumida em relação ao rascunho inicial. (https://gamma.app/) As imagens e layouts foram todos inclusos pela ferramenta.
+
+Após, levei ao Canva (https://www.canva.com/) para retirada de marca d’água e outros ajustes.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook ficou simples e gostoso de se ler, como ficou bem resumido, é um chamariz para algo mais aprofundado que poderia vir depois.
+
+Link Ebook: https://www.canva.com/design/DAGXbbLp4kI/jBqRoZ22D1Z8vKyovsCvVA/edit?utm_content=DAGXbbLp4kI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É maravilhoso o processo de criação utilizando as ferramentas de IA. Você não precisa mais ser o expert, você precisa ter bom senso em não espalhar coisas erradas e usar isso como malefício, mas utilizando de forma consciente, você pode evoluir não só seu dia-a-dia, com a vida de outras pessoas, sua empresa, seu negócio, seu trabalho, seus estudos, tudo. 
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
